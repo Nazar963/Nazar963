@@ -11,18 +11,17 @@
 <strong>The Ultimate Question of Life, the Universe, and Everything is 42 </strong>
 </p>
 </br>
-
 - 🔭 I’m currently working on ft_printf
 </br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" /> <img src="https://github-readme-stats.vercel.app/api?username=Nazar963&theme=dark" />
+  <img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" /> 
 </p>
 
 ![image](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 <!--
 **Nazar963/Nazar963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://github-readme-stats.vercel.app/api?username=Nazar963&theme=dark" />
 Here are some ideas to get you started:
 ### ✨a proud 42 student:✨
 - 🔭 I’m currently working on ...
