@@ -11,15 +11,24 @@
 <strong>The Ultimate Question of Life, the Universe, and Everything is 42 </strong>
 </p>
 </br>
-- 🔭 I’m currently working on ft_printf
+- 🌱 Piscine 5/2022
 </br>
+- ⚡ Kickoff 10/2022
+</br>
+- 🔭 I’m currently working on ft_printf
+</br></br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" /> 
+</p>
+
+<p align="center">
+  <img src="https://badge.mediaplus.ma/greenbinary/naal-jen?1337Badge=off" /> 
 </p>
 
 ![image](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 <!--
+[![naal-jen's 42 stats](https://badge.mediaplus.ma/greenbinary/naal-jen?1337Badge=off)](https://github.com/oakoudad/badge42) => badge
 **Nazar963/Nazar963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://github-readme-stats.vercel.app/api?username=Nazar963&theme=dark" />
 Here are some ideas to get you started:
