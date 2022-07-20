@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<strong>⚡TO CODE OR NOT TO CODE THAT IS THE QUESTION!!! ⚡</strong>
+<img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=B4FFBF&width=450&lines=%E2%9A%A1To+Code+Or+Not+To+Code+That+Is+The+Question%E2%9A%A1"/>
 </p>
 
 <p align="center">
