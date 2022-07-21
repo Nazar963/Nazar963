@@ -11,7 +11,9 @@
 <strong>The Ultimate Question of Life, the Universe, and Everything is 42 </strong>
 </p>
 </br>
-- 🌱 Piscine 5/2022
+- 🌱 First Piscine at Heilbronn 1/2022
+</br>
+- 🌱 Second Piscine at Firenze 5/2022
 </br>
 - ⚡ Kickoff 10/2022
 </br>
@@ -23,6 +25,10 @@
 
 <p align="center">
   <img src="https://badge.mediaplus.ma/black/naal-jen?1337Badge=off" /> 
+</p>
+
+<p align="center">
+  <img src="https://badge.mediaplus.ma/darkblue/nal-jend?1337Badge=off" /> 
 </p>
 
 ![image](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
