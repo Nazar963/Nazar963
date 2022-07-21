@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://badge.mediaplus.ma/greenbinary/naal-jen?1337Badge=off" /> 
+  <img src="https://badge.mediaplus.ma/black/naal-jen?1337Badge=off" /> 
 </p>
 
 ![image](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
