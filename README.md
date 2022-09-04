@@ -17,7 +17,7 @@
 </br>
 - ⚡ Kickoff 10/2022
 </br>
-- 🔭 I’m currently working on ft_printf
+- 🔭 I’m currently working on GNL
 </br></br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" /> 
