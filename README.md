@@ -9,7 +9,7 @@
 
 <p align="center"> 
 <strong>The Ultimate Question of Life, the Universe, and Everything is 42 </strong>
-</p>
+
 </br>
 - 🌱 First Piscine at Heilbronn 1/2022
 </br>
@@ -18,18 +18,19 @@
 - ⚡ Kickoff 10/2022
 </br>
 - 🔭 I’m currently working on GNL
+</p>
 </br></br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" /> 
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://badge.mediaplus.ma/black/naal-jen?1337Badge=off" /> 
 </p>
 
 <p align="center">
   <img src="https://badge.mediaplus.ma/darkblue/nal-jend?1337Badge=off" /> 
-</p>
+</p>-->
 
 ![image](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
