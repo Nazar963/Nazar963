@@ -17,7 +17,7 @@
 </br>
 - ⚡ Kickoff 10/2022
 </br>
-- 🔭 I’m currently working on GNL
+- 🔭 I’m currently working on Pipex
 </p>
 </br></br>
 <p align="center">
