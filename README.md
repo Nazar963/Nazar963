@@ -14,7 +14,7 @@
 <h1>You Can Reach me on</h1>
 
 
-![https://www.linkedin.com/in/nazar-al-jendli-b66051173/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)    ![www.nazarjendli@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![(https://www.linkedin.com/in/nazar-al-jendli-b66051173/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![www.nazarjendli@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ---
 <!--[![naal-jen's 42 stats](https://badge42.vercel.app/api/v2/cl9jrmdyl00970hmsavpul6cb/stats?cursusId=21&coalitionId=283)](https://github.com/JaeSeoKim/badge42)-->
 
