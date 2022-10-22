@@ -1,4 +1,4 @@
-
+<!-- scrolling text -->
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=B4FFBF&width=450&lines=%E2%9A%A1To+Code+Or+Not+To+Code+That+Is+The+Question%E2%9A%A1"/>
 </p>
@@ -9,28 +9,19 @@
 
 <p align="center"> 
 <strong>The Ultimate Question of Life, the Universe, and Everything is 42 </strong>
-
-</br>
-- 🌱 First Piscine at Heilbronn 1/2022
-</br>
-- 🌱 Second Piscine at Firenze 5/2022
-</br>
-- ⚡ Kickoff 10/2022
-</br>
-- 🔭 I’m currently working on Pipex
-</p>
-</br></br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" /> 
 </p>
 
-<!--<p align="center">
-  <img src="https://badge.mediaplus.ma/black/naal-jen?1337Badge=off" /> 
-</p>
+<h1>You Can Reach me on</h1>
+
+
+![https://www.linkedin.com/in/nazar-al-jendli-b66051173/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)    ![www.nazarjendli@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+---
+<!--[![naal-jen's 42 stats](https://badge42.vercel.app/api/v2/cl9jrmdyl00970hmsavpul6cb/stats?cursusId=21&coalitionId=283)](https://github.com/JaeSeoKim/badge42)-->
+
 
 <p align="center">
-  <img src="https://badge.mediaplus.ma/darkblue/nal-jend?1337Badge=off" /> 
-</p>-->
+  <img src="https://badge42.vercel.app/api/v2/cl9jrmdyl00970hmsavpul6cb/stats?cursusId=21&coalitionId=283" /> 
+</p>
 
 ![image](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
@@ -52,3 +43,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Nazar963&theme=dark"/>
 </p>
 -->
+
+
+<!-- man on a computer
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" /> 
+</p>-->
