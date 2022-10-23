@@ -11,12 +11,11 @@
 <strong>The Ultimate Question of Life, the Universe, and Everything is 42 </strong>
 </p>
 
-<h1>You Can Reach me on</h1>
+<h1>Connect with me on</h1>
 
-<a href=" https://www.linkedin.com/in/nazar-al-jendli-b66051173/ ">
-  <img align ="left" alt="Mitul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href=" www.nazarjendli@gmail.com "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar-al-jendli-b66051173/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazarjendli@gmail.com)
+
 
 ---
 <!--[![naal-jen's 42 stats](https://badge42.vercel.app/api/v2/cl9jrmdyl00970hmsavpul6cb/stats?cursusId=21&coalitionId=283)](https://github.com/JaeSeoKim/badge42)-->
