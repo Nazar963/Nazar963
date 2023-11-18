@@ -1,15 +1,29 @@
 <!-- scrolling text -->
 <p align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=545DF7&width=540&lines=To+Code+Or+Not+To+Code+That+is+The+Question"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&weight=700&size=30&pause=1000&color=59F797&random=false&width=1200&lines=The+Ultimate+Question+of+Life%2C+the+Universe%2C+and+Everything+is+42" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
+  <!--   The github logo gif -->
+  <!--   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" /> -->
+  <!-- link for the gif of the coding moneky  -->
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" />
 </p>
 
-<p align="center"> 
-<strong>The Ultimate Question of Life, the Universe, and Everything is 42 </strong>
-</p>
+<h1>Technical Skills</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,git,github,linux,stackoverflow&theme=dark)](https://skillicons.dev)
+
+
+
+
+---
+
+<h1>Learning</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=java,php,javascript,typescript,vue,laravel,docker&theme=dark)](https://skillicons.dev)
+
+---
 
 <h1>Connect with me on</h1>
 
@@ -18,33 +32,10 @@
 
 
 ---
-<!--[![naal-jen's 42 stats](https://badge42.vercel.app/api/v2/cl9jrmdyl00970hmsavpul6cb/stats?cursusId=21&coalitionId=283)](https://github.com/JaeSeoKim/badge42)-->
 
-
-<p align="center">
-  <img src="https://badge42.vercel.app/api/v2/cl9jrmdyl00970hmsavpul6cb/stats?cursusId=21&coalitionId=283" /> 
-</p>
-
+<!--The gif of the balck wave-->
 ![image](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-<!--
-[![naal-jen's 42 stats](https://badge.mediaplus.ma/greenbinary/naal-jen?1337Badge=off)](https://github.com/oakoudad/badge42) => badge
-**Nazar963/Nazar963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://github-readme-stats.vercel.app/api?username=Nazar963&theme=dark" />
-Here are some ideas to get you started:
-### ✨a proud 42 student:✨
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nazar963&theme=dark"/>
-</p>
--->
 
 
 <!-- man on a computer
