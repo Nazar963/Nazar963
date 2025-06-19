@@ -11,6 +11,8 @@
 ![](https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS) 
 [![42 Profile](https://img.shields.io/badge/42_Florence-000000?logo=42&logoColor=white)](https://profile.intra.42.fr/)
 [![AI Focus](https://img.shields.io/badge/Specialization-AI_Development-4D8EFF)]()
+![](https://badge.mcpx.dev?type=dev 'MCP Dev')
+![](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 
 ### 🚀 About Me
 - 🔭 Currently hacking at `42 Florence`'s mastery curriculum
@@ -19,25 +21,46 @@
 - ☕ Fueled by espresso & algorithmic challenges
 
 <h1>Technical Skills</h1>
+<h3>Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,git,github,linux,stackoverflow&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,php,javascript,typescript,py,html,css,md&theme=dark)](https://skillicons.dev)
 
+<h3>Technologies</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=docker,graphql,git,nginx,redis,Sass&theme=dark)](https://skillicons.dev)
 
+<h3>Frameworks and libraries</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=flask,laravel,vue,pinia,nestjs,nextjs,prisma,react,sklearn&theme=dark)](https://skillicons.dev)
+
+<h3>Platforms</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,jenkins,bitbucket,notion,stackoverflow&theme=dark)](https://skillicons.dev)
+
+<h3>Os</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,apple,ubuntu,debian&theme=dark)](https://skillicons.dev)
+
+<h3>Tools</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,pnpm,postman,vite,vitest,apollo,cmake&theme=dark)](https://skillicons.dev)
+
+<h3>IDE's</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=replit,vim,vscode,codepen&theme=dark)](https://skillicons.dev)
 
 ---
 
 <h1>Learning</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,javascript,typescript,vue,laravel,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kubernetes,maven,mongodb,mysql,postgres,sqlite,svelte,angular,arduino,astro,aws,azure,bootstrap,cs,cassandra,cloudflare,dart,django,dotnet,flutter&theme=dark)](https://skillicons.dev)
 
 ---
 
 <h1>Connect with me on</h1>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar-al-jendli-b66051173/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazarjendli@gmail.com)
-
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:nazarjendli@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/nazar-al-jendli-b66051173/)
 
 ---
 
