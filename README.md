@@ -12,7 +12,6 @@
 [![42 Profile](https://img.shields.io/badge/42_Florence-000000?logo=42&logoColor=white)](https://profile.intra.42.fr/)
 [![AI Focus](https://img.shields.io/badge/Specialization-AI_Development-4D8EFF)]()
 ![](https://badge.mcpx.dev?type=dev 'MCP Dev')
-![](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 
 ### 🚀 About Me
 - 🔭 Currently hacking at `42 Florence`'s mastery curriculum
