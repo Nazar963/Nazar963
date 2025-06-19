@@ -1,3 +1,7 @@
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=000000&text=The+Ultimate+Question+of+Life%2C+the+Universe%2C+and+Everything+is+42&fontAlign=50&fontSize=27&textBg=false&fontColor=FFFFE0&reversal=true&section=header&fontAlignY=30"/>
+</div>
+
 <!-- scrolling text -->
 <p align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&weight=700&size=30&pause=1000&color=59F797&random=false&width=1200&lines=The+Ultimate+Question+of+Life%2C+the+Universe%2C+and+Everything+is+42" alt="Typing SVG" /></a>
